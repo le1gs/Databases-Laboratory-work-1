@@ -1,4 +1,3 @@
-# Databases-Laboratory-work-1
 ## Автор:
 - Misha Rumarchuk
 
